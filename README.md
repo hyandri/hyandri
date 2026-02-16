@@ -46,7 +46,7 @@ fields_of_interests: [
     "Software Architecture"
 ]
 
-currently_learning: ["Docker, and React Native"]
+currently_learning: ["Docker, and React"]
 2026 Goals: [" Publish a research paper, win hackathons and learn at least 5-10 new Technologies."]
 ```
   
