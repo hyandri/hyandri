@@ -34,17 +34,16 @@ located_in: Lalitpur, Nepal
 current_job: Student
 education:
   [
-    "2nd Year studying BSc (Hons) Computer Science with Artificial Intelligence at Sunway College, Kathmandu",
-    "High School in Science Field"
+    "BSc (Hons) Computer Science with AI"
   ]
-company: Soulber
+University: Sunway College Kathmandu × Birmingham City University
 
 fields_of_interests: [
     "Artificial Intelligence",
     "Machine Learning for Real-World Applications",
-    "IoT-Based Smart Systems",
+    "Web Dev",
     "Data Analytics & Modeling",
-    "Scalable Software Architecture"
+    "Software Architecture"
 ]
 
 currently_learning: ["Docker, and React Native"]
